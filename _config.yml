@@ -1,17 +1,17 @@
 # Site settings
 title: PEACE LOVE
-SEOTitle: zbj博客 | BY zbj
+SEOTitle: zbj博客 | zbj | PEACE LOVE
 header-img: img/home-bg-art.jpg
 email: zzhhangyan@126.com
 description: "no word"
-keyword: "BY, BY zbj, zbj的博客, zbj, 北辰"
+keyword: "zbj, zbj的博客, 北辰"
 url: "https://simplegis.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/simplegis/simplegis.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "no word..."
+sidebar-about-description: "no word"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
